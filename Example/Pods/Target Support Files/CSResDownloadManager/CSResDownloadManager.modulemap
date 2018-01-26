@@ -1,0 +1,6 @@
+framework module CSResDownloadManager {
+  umbrella header "CSResDownloadManager-umbrella.h"
+
+  export *
+  module * { export * }
+}
