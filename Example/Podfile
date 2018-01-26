@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CSResDownloadManager_Example' do
+  pod 'CSResDownloadManager', :path => '../'
+
+  target 'CSResDownloadManager_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
