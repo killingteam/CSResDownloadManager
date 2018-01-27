@@ -22,7 +22,7 @@ pod 'CSResDownloadManager'
 
 ## Author
 
-killingteam, chenshuang@adnonstop.com
+killingteam, simplefuture1024@sina.com
 
 ## License
 
