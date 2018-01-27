@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/killingteam/CSResDownloadManager'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'killingteam' => 'chenshuang@adnonstop.com' }
+  s.author           = { 'killingteam' => 'simplefuture1024@sina.com' }
   s.source           = { :git => 'https://github.com/killingteam/CSResDownloadManager.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
